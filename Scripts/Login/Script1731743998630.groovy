@@ -30,5 +30,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'))
-
-//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
